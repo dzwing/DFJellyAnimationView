@@ -1,0 +1,27 @@
+PODS:
+  - DFJellyAnimationView (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - DFJellyAnimationView (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  DFJellyAnimationView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DFJellyAnimationView: b66fd8b0fcb6004e9e87dd489d5b74f59e4d3a0e
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 1dd909ae50936b726e470eaf3cf09f653610da55
+
+COCOAPODS: 1.10.0

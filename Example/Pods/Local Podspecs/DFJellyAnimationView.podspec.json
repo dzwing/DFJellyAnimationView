@@ -1,0 +1,22 @@
+{
+  "name": "DFJellyAnimationView",
+  "version": "0.1.0",
+  "summary": "A short description of DFJellyAnimationView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dzwing/DFJellyAnimationView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dzwing": "dingzw@go_goal.com"
+  },
+  "source": {
+    "git": "https://github.com/dzwing/DFJellyAnimationView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DFJellyAnimationView/Classes/**/*"
+}

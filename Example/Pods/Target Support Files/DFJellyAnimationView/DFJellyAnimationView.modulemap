@@ -1,0 +1,6 @@
+framework module DFJellyAnimationView {
+  umbrella header "DFJellyAnimationView-umbrella.h"
+
+  export *
+  module * { export * }
+}

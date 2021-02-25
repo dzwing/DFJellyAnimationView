@@ -7,6 +7,7 @@
 //
 
 #import "DFViewController.h"
+#import "DFJellyAnimationView.h"
 
 @interface DFViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    DFJellyAnimationView *jellyView = [[DFJellyAnimationView alloc]initWithFrame:self.view.bounds];
+    [self.view addSubview:jellyView];
 }
 
 - (void)didReceiveMemoryWarning
